@@ -12,7 +12,8 @@ https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
 also to customize it so something like kdewallet stops popping up here's some helpful guides 
 Startup with nothing opened: https://forum.manjaro.org/t/restart-shut-down-and-resume-from-sleep-dont-work/170282/4
-Auto log in: https://forum.manjaro.org/t/automatic-login-on-off/168182 Disable kdewallet https://www.youtube.com/watch?v=pzpPBTlmnco&t=28s
+Auto log in: https://forum.manjaro.org/t/automatic-login-on-off/168182 
+Disable kdewallet https://www.youtube.com/watch?v=pzpPBTlmnco&t=28s
 
 before downloading aur here's how to download browsers (use ones that don't require aur)
 
