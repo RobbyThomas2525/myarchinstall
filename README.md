@@ -5,7 +5,9 @@ Step 1 installing arch using iso from arch website and using archinstall command
 make sure to use LTS kernal cause i'm running a older pc (rx 7600 and a ryzen 5700X) maybe install recent just in case
 and make sure to install the network part
 
-Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak and aur using SomeOrdinaryGamers video 
+Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak 
+and download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed
+and download aur using SomeOrdinaryGamers video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
 also to customize it so something like kdewallet stops popping up here's some helpful guides 
@@ -34,8 +36,12 @@ Mangohud use releases on github and use ./mangohud-setup.sh install command
 
 Goverlay use appimage or pacman -S goverlay
 
+Step 4 other addons 
 
-Step 4 
+Libreoffice sudo pacman libreoffice-fresh or libreoffice-still (fresh is what windows version has)
+
+Protonvpn use flatpak unless there's another way on arch to use it 
+
 
 
 
