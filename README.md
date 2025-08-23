@@ -21,8 +21,11 @@ before downloading aur here's how to download browsers (use ones that don't requ
 
 Step 2.5 Browsers
 Brave: yay -Sy brave-bin 
+
 librewolf : (need yay) yay -s librewolf or yay -s librewolf-bin
+
 Firefox sudo pacman -s firefox
+
 Chromium sudo pacman -S chromium
 
 Step 3 GAMES and add ons 
