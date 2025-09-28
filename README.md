@@ -39,7 +39,7 @@ Minecraft use the other distribution download button
 
 Clone hero just install like a appimage
 
-ADD ONS 
+STEP 3.5 ADD ONS 
 
 Mangohud use releases on github and use ./mangohud-setup.sh install command
 
