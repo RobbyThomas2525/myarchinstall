@@ -51,6 +51,8 @@ Libreoffice sudo pacman libreoffice-fresh or libreoffice-still (fresh is what wi
 
 Protonvpn use flatpak unless there's another way on arch to use it 
 
+Timeshift Yay -S timeshift
+
 
 
 
