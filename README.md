@@ -17,7 +17,7 @@ Auto log in: https://forum.manjaro.org/t/automatic-login-on-off/168182
 
 Disable kdewallet https://www.youtube.com/watch?v=pzpPBTlmnco&t=28s
 
-before downloading aur here's how to download browsers (use ones that don't require aur)
+before downloading aur here's how to download browsers (use ones that don't require aur or yay)
 
 Step 2.5 Browsers
 Brave: yay -Sy brave-bin 
@@ -39,19 +39,29 @@ Minecraft use the other distribution download button
 
 Clone hero just install like a appimage
 
-STEP 3.5 ADD ONS 
+STEP 3.5 GAME ADD ONS 
 
 Mangohud use releases on github and use ./mangohud-setup.sh install command
 
 Goverlay use appimage or pacman -S goverlay
 
-Step 4 other addons 
+Step 4 other stuff
+
+Discord use flatpak unless someone wants to use the tar file
+
+Video editors: kdenlive and shotcut use appimage or flatpak don't know commands and but both editors flatpaks versions i've had problems with 
 
 Libreoffice sudo pacman libreoffice-fresh or libreoffice-still (fresh is what windows version has)
 
 Protonvpn use flatpak unless there's another way on arch to use it 
 
 Timeshift Yay -S timeshift
+
+GIMP flatpak or appimage
+
+
+
+
 
 
 
