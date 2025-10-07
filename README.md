@@ -57,7 +57,7 @@ Protonvpn use flatpak unless there's another way on arch to use it
 
 Timeshift Yay -S timeshift
 
-GIMP flatpak or appimage
+GIMP use flatpak or appimage
 
 
 
