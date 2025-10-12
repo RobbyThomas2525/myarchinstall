@@ -59,6 +59,15 @@ Timeshift Yay -S timeshift
 
 GIMP use flatpak or appimage
 
+For appimages to put on desktop us this to get by the root problem in arch or anything to do with KDE use KATE make a new text document add the desktop entry
+then save in \user\share\applications then use kde menu editor to move to where you want
+    [Desktop Entry]
+    Name=<AppImage Name>
+    Exec=/path/to/your/App.AppImage
+    Icon=/path/to/an/icon.png
+    Type=Application
+    Categories=Utility;
+
 
 
 
