@@ -68,6 +68,8 @@ Timeshift Yay -S timeshift
 
 GIMP use flatpak or appimage
 
+ffmpeg (so i can look at info about video files) looks like you just use sudo pacman -Syu ffmpeg
+
 
 
 
