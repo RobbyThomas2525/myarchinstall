@@ -6,7 +6,7 @@ make sure to use LTS kernal cause i'm running a older pc (rx 7600 and a ryzen 57
 and make sure to install the network part
 
 Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak 
-and download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed
+and download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed (found sudo pacman -S gnome-boxes) gives you the same version
 and download aur using SomeOrdinaryGamers video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
