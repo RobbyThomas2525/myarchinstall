@@ -8,6 +8,7 @@ and make sure to install the network part
 Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak 
 
 download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed (found sudo pacman -S gnome-boxes) gives you the same version
+
 and also for programs download aur using yay using SomeOrdinaryGamers video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
