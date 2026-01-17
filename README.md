@@ -5,6 +5,8 @@ Step 1 installing arch using iso from arch website and using archinstall command
 make sure to use LTS kernal cause i'm running a older pc (rx 7600 and a ryzen 5700X) maybe install recent just in case
 and make sure to install the network part
 
+also i like kde plasma so i'll be using that
+
 Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak 
 
 download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed (found sudo pacman -S gnome-boxes) gives you the same version
