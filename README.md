@@ -9,7 +9,7 @@ also i like kde plasma so i'll be using that
 
 Step 2 after everything is installed first download flatpak using sudo pacman -S flatpak 
 
-download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed (found sudo pacman -S gnome-boxes) gives you the same version
+download Gnome Boxes through flatpak cause of some bug causing it to not work after having everything installed (found sudo pacman -S gnome-boxes) gives you the same version but with usb devices not blocked
 
 and also for programs download aur using yay using SomeOrdinaryGamers video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
@@ -66,7 +66,7 @@ Video editors: kdenlive and shotcut use appimage or flatpak don't know commands 
 
 Libreoffice sudo pacman libreoffice-fresh or libreoffice-still (fresh is what windows version has)
 
-Protonvpn use flatpak unless there's another way on arch to use it 
+Protonvpn use flatpak unless apparently you can use cli using this but i've havn't got it working https://protonvpn.com/support/linux-cli#install  
 
 Timeshift Yay -S timeshift
 
