@@ -68,7 +68,7 @@ Libreoffice sudo pacman libreoffice-fresh or libreoffice-still (fresh is what wi
 
 Protonvpn use flatpak unless apparently you can use cli using this but i've havn't got it working https://protonvpn.com/support/linux-cli#install  
 
-Timeshift Yay -S timeshift
+Timeshift sudo pacman -S timeshift
 
 GIMP use flatpak or appimage
 
