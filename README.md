@@ -13,7 +13,9 @@ download Gnome Boxes through flatpak cause of some bug causing it to not work af
 
 UPDATE: (found sudo pacman -S gnome-boxes) gives you the same version but with usb devices not blocked might fix the bug
 
-and also for programs download aur using yay using SomeOrdinaryGamers video 
+and also for programs download aur using yay use https://github.com/Jguer/yay command 
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+same thing SomeOrdinaryGamers does in this video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
 also to customize it so something like kdewallet stops popping up here's some helpful guides 
