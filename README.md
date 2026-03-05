@@ -20,7 +20,7 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 same thing SomeOrdinaryGamers does in this video 
 https://youtu.be/-GyOFlWs4HY?feature=shared&t=1635
 
-also to customize it so something like kdewallet stops popping up here's some helpful guides 
+Also to customize it so something like kdewallet stops popping up here's some helpful guides 
 Startup with nothing opened: https://forum.manjaro.org/t/restart-shut-down-and-resume-from-sleep-dont-work/170282/4
 
 Auto log in: https://forum.manjaro.org/t/automatic-login-on-off/168182 
