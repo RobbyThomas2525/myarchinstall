@@ -54,6 +54,8 @@ https://www.xda-developers.com/how-run-steam-linux/#installing-steam-on-arch-lin
 
 lutris : sudo pacman -s lutris or just use flatpak
 
+Heroic : use appimage or flatpak 
+
 Minecraft use the other distribution download button 
 
 Clone hero just install like a appimage
